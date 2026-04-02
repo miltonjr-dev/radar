@@ -1,0 +1,31 @@
+id,nome,vendedor_responsavel,ultima_compra,total_compras,qtd_pedidos,dias_sem_comprar,status
+1,Marcos Oliveira,Carlos Silva,2025-11-28,6910.55,3,125,Inativo
+2,Ana Paula,Fernanda Lima,2025-11-10,6221.3,14,143,Inativo
+3,Roberto Alves,Ricardo Santos,2025-10-04,2839.83,10,180,Inativo
+4,Patrícia Costa,Juliana Rocha,2026-03-12,12178.77,6,21,Ativo
+5,Leandro Mendes,André Costa,2026-01-29,5735.58,16,63,Em risco
+6,Cláudia Ferreira,Carlos Silva,2025-11-07,1321.87,4,146,Inativo
+7,Fernando Dias,Fernanda Lima,2026-03-03,6182.7,2,30,Ativo
+8,Simone Nunes,Ricardo Santos,2025-11-12,4074.54,4,141,Inativo
+9,Alexandre Lima,Juliana Rocha,2026-03-11,5391.01,15,22,Ativo
+10,Beatriz Souza,André Costa,2025-10-20,2270.62,19,164,Inativo
+11,Eduardo Carvalho,Carlos Silva,2025-11-06,9897.52,15,147,Inativo
+12,Mariana Santos,Fernanda Lima,2026-01-13,12477.94,9,79,Em risco
+13,Gustavo Rocha,Ricardo Santos,2026-03-01,12453.08,18,32,Ativo
+14,Vanessa Pereira,Juliana Rocha,2026-03-28,2766.6,11,5,Ativo
+15,Felipe Torres,André Costa,2025-10-19,1689.34,4,165,Inativo
+16,Daniela Martins,Carlos Silva,2026-02-17,1677.83,10,44,Ativo
+17,Thiago Barbosa,Fernanda Lima,2025-11-16,2764.92,7,137,Inativo
+18,Larissa Ribeiro,Ricardo Santos,2026-01-24,14670.56,3,68,Em risco
+19,Bruno Campos,Juliana Rocha,2025-09-29,7852.7,19,185,Inativo
+20,Camila Gomes,André Costa,2025-12-28,7281.38,2,95,Em risco
+21,Paulo Henrique,Carlos Silva,2025-09-27,6462.26,2,187,Inativo
+22,Renata Lopes,Fernanda Lima,2025-09-20,5289.13,17,194,Inativo
+23,Diego Araujo,Ricardo Santos,2025-12-27,12833.33,14,96,Em risco
+24,Natália Cruz,Juliana Rocha,2025-10-17,14049.28,11,167,Inativo
+25,Vinícius Moreira,André Costa,2026-01-04,12437.46,4,88,Em risco
+26,Isabela Cardoso,Carlos Silva,2026-01-21,734.91,18,71,Em risco
+27,Rodrigo Pinto,Fernanda Lima,2025-11-13,1082.01,1,140,Inativo
+28,Aline Freitas,Ricardo Santos,2025-12-31,3327.63,15,92,Em risco
+29,Márcio Teixeira,Juliana Rocha,2025-10-03,11597.77,2,181,Inativo
+30,Juliana Ramos,André Costa,2025-12-17,13050.65,12,106,Em risco
