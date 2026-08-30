@@ -1,659 +1,659 @@
 data,vendedor,produto,quantidade,valor_unitario,desconto_pct,valor_total,status
-2026-02-12,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-02-12,Carlos Silva,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-02-12,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-02-12,Carlos Silva,Console PlayStation 5,1,4299.9,0.05,4084.9,Concluído
-2026-01-25,Carlos Silva,Console PlayStation 5,3,4299.9,0.1,11609.73,Concluído
-2026-01-25,Carlos Silva,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-01-25,Carlos Silva,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-01-25,Carlos Silva,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-02-27,Carlos Silva,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
-2026-02-27,Carlos Silva,Console PlayStation 5,1,4299.9,0.05,4084.9,Concluído
-2026-02-27,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.1,539.82,Concluído
-2026-03-14,Carlos Silva,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-01-03,Carlos Silva,Notebook Dell Inspiron,2,3499.9,0.1,6299.82,Concluído
-2026-01-03,Carlos Silva,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
-2026-01-03,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-03,Carlos Silva,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-01-29,Carlos Silva,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-01-29,Carlos Silva,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-01-29,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-02-11,Carlos Silva,Câmera GoPro,1,1899.9,0.05,1804.9,Concluído
-2026-02-11,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
-2026-02-11,Carlos Silva,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
-2026-03-09,Carlos Silva,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-01-13,Carlos Silva,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
-2026-01-13,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-02-16,Carlos Silva,Câmera GoPro,3,1899.9,0.05,5414.72,Concluído
-2026-02-16,Carlos Silva,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-03-25,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-03-25,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
-2026-03-25,Carlos Silva,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
-2026-03-25,Carlos Silva,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-02-07,Carlos Silva,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-02-07,Carlos Silva,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
-2026-02-07,Carlos Silva,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-02-28,Carlos Silva,"Monitor LG 24""",3,1099.9,0.05,3134.72,Concluído
-2026-02-28,Carlos Silva,Caixa de Som Portátil,1,449.9,0.0,449.9,Cancelado
-2026-03-30,Carlos Silva,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
-2026-03-30,Carlos Silva,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-01-15,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-15,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
-2026-01-15,Carlos Silva,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-01-07,Carlos Silva,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-01-07,Carlos Silva,Caixa de Som Portátil,1,449.9,0.05,427.4,Concluído
-2026-01-07,Carlos Silva,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-01-07,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-01-21,Carlos Silva,Câmera GoPro,2,1899.9,0.1,3419.82,Concluído
-2026-01-21,Carlos Silva,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-01-31,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-01-31,Carlos Silva,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-02-21,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-02-21,Carlos Silva,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
-2026-02-21,Carlos Silva,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-02-21,Carlos Silva,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-03-06,Carlos Silva,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-03-06,Carlos Silva,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-03-06,Carlos Silva,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-03-06,Carlos Silva,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
-2026-03-17,Carlos Silva,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
-2026-03-13,Carlos Silva,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-03-13,Carlos Silva,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-03-20,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
-2026-03-20,Carlos Silva,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-03-20,Carlos Silva,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
-2026-03-20,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-02-02,Carlos Silva,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
-2026-02-05,Carlos Silva,Console PlayStation 5,2,4299.9,0.1,7739.82,Concluído
-2026-01-14,Carlos Silva,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
-2026-01-14,Carlos Silva,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-03-10,Carlos Silva,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-03-10,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-03-10,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
-2026-03-11,Carlos Silva,Câmera GoPro,1,1899.9,0.1,1709.91,Concluído
-2026-03-11,Carlos Silva,Console PlayStation 5,3,4299.9,0.1,11609.73,Concluído
-2026-02-03,Carlos Silva,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-02-03,Carlos Silva,Caixa de Som Portátil,1,449.9,0.05,427.4,Concluído
-2026-02-03,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
-2026-03-19,Carlos Silva,"Monitor LG 24""",2,1099.9,0.1,1979.82,Concluído
-2026-03-19,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.1,2339.82,Concluído
-2026-03-19,Carlos Silva,"Monitor LG 24""",2,1099.9,0.1,1979.82,Concluído
-2026-03-19,Carlos Silva,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-01-12,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
-2026-01-12,Carlos Silva,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-03-12,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-03-12,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
-2026-03-12,Carlos Silva,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-03-12,Carlos Silva,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-01-08,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.1,2339.82,Concluído
-2026-01-08,Carlos Silva,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
-2026-01-08,Carlos Silva,Console PlayStation 5,2,4299.9,0.1,7739.82,Concluído
-2026-02-14,Carlos Silva,Smartwatch Xiaomi,1,599.9,0.1,539.91,Cancelado
-2026-02-14,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.1,539.82,Concluído
-2026-02-14,Carlos Silva,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-02-19,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
-2026-02-19,Carlos Silva,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-01-19,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
-2026-01-19,Carlos Silva,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
-2026-02-17,Carlos Silva,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
-2026-02-17,Carlos Silva,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-02-17,Carlos Silva,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
-2026-02-17,Carlos Silva,Fone Bluetooth JBL,3,299.9,0.1,809.73,Concluído
-2026-02-06,Carlos Silva,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
-2026-02-06,Carlos Silva,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-02-06,Carlos Silva,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-01-10,Carlos Silva,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-01-10,Carlos Silva,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
-2026-01-10,Carlos Silva,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-03-22,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-01-30,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
-2026-01-22,Carlos Silva,Caixa de Som Portátil,1,449.9,0.05,427.4,Concluído
-2026-01-22,Carlos Silva,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-01-22,Carlos Silva,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
-2026-03-28,Carlos Silva,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-03-28,Carlos Silva,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-03-28,Carlos Silva,"Smart TV 50""",1,2199.9,0.05,2089.91,Cancelado
-2026-01-28,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
-2026-01-28,Carlos Silva,Câmera GoPro,2,1899.9,0.05,3609.81,Cancelado
-2026-01-28,Carlos Silva,Tablet Lenovo,2,1599.9,0.1,2879.82,Cancelado
-2026-02-25,Carlos Silva,Fone Bluetooth JBL,3,299.9,0.0,899.7,Cancelado
-2026-01-16,Carlos Silva,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-01-16,Carlos Silva,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-01-27,Carlos Silva,Smartwatch Xiaomi,2,599.9,0.05,1139.81,Concluído
-2026-01-27,Carlos Silva,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
-2026-01-06,Carlos Silva,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
-2026-01-06,Carlos Silva,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-01-06,Carlos Silva,Tablet Lenovo,1,1599.9,0.05,1519.9,Concluído
-2026-01-06,Carlos Silva,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-01-20,Carlos Silva,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-02-10,Carlos Silva,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-02-10,Carlos Silva,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-01-11,Carlos Silva,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-01-11,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
-2026-03-31,Carlos Silva,Tablet Lenovo,3,1599.9,0.05,4559.72,Concluído
-2026-01-09,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-01-09,Carlos Silva,Tablet Lenovo,1,1599.9,0.1,1439.91,Concluído
-2026-01-09,Carlos Silva,"Smart TV 50""",1,2199.9,0.1,1979.91,Concluído
-2026-03-08,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
-2026-03-08,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
-2026-02-12,Fernanda Lima,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-02-12,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-02-08,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.1,1079.82,Concluído
-2026-02-08,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-02-03,Fernanda Lima,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-02-03,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
-2026-02-19,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-02-19,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
-2026-02-19,Fernanda Lima,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-29,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-01-29,Fernanda Lima,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
-2026-03-02,Fernanda Lima,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
-2026-03-03,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
-2026-03-03,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
-2026-01-09,Fernanda Lima,Câmera GoPro,3,1899.9,0.05,5414.72,Concluído
-2026-01-09,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-02-07,Fernanda Lima,Smartwatch Xiaomi,1,599.9,0.05,569.9,Cancelado
-2026-02-07,Fernanda Lima,Câmera GoPro,2,1899.9,0.05,3609.81,Cancelado
-2026-02-07,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-02-06,Fernanda Lima,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-02-06,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-03-18,Fernanda Lima,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
-2026-04-01,Fernanda Lima,Fone Bluetooth JBL,1,299.9,0.05,284.9,Concluído
-2026-03-14,Fernanda Lima,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
-2026-03-14,Fernanda Lima,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-03-20,Fernanda Lima,Console PlayStation 5,2,4299.9,0.05,8169.81,Concluído
-2026-03-26,Fernanda Lima,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
-2026-03-26,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-03-26,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Cancelado
-2026-03-26,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-01-11,Fernanda Lima,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-01-11,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-01-11,Fernanda Lima,"Smart TV 50""",1,2199.9,0.1,1979.91,Concluído
-2026-01-24,Fernanda Lima,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
-2026-01-24,Fernanda Lima,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
-2026-01-24,Fernanda Lima,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
-2026-01-03,Fernanda Lima,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
-2026-02-14,Fernanda Lima,Console PlayStation 5,2,4299.9,0.1,7739.82,Concluído
-2026-02-20,Fernanda Lima,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
-2026-02-20,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.05,1139.81,Concluído
-2026-02-20,Fernanda Lima,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
-2026-03-31,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
-2026-03-31,Fernanda Lima,Console PlayStation 5,1,4299.9,0.05,4084.9,Concluído
-2026-02-16,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-02-16,Fernanda Lima,Câmera GoPro,1,1899.9,0.05,1804.9,Concluído
-2026-01-23,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
-2026-01-23,Fernanda Lima,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-01-23,Fernanda Lima,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
-2026-01-23,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-02-24,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-02-24,Fernanda Lima,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
-2026-01-21,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.05,1709.71,Concluído
-2026-01-21,Fernanda Lima,Fone Bluetooth JBL,1,299.9,0.1,269.91,Concluído
-2026-01-21,Fernanda Lima,"Monitor LG 24""",1,1099.9,0.05,1044.9,Concluído
-2026-01-20,Fernanda Lima,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
-2026-01-30,Fernanda Lima,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-03-28,Fernanda Lima,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
-2026-01-27,Fernanda Lima,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-02-17,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-03-05,Fernanda Lima,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-02-15,Fernanda Lima,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-02-15,Fernanda Lima,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
-2026-02-15,Fernanda Lima,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-02-15,Fernanda Lima,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-03-25,Fernanda Lima,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
-2026-03-25,Fernanda Lima,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
-2026-01-10,Fernanda Lima,Console PlayStation 5,1,4299.9,0.05,4084.9,Concluído
-2026-03-17,Fernanda Lima,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
-2026-03-17,Fernanda Lima,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-03-17,Fernanda Lima,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
-2026-03-17,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
-2026-02-11,Fernanda Lima,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-02-11,Fernanda Lima,Notebook Dell Inspiron,2,3499.9,0.05,6649.81,Concluído
-2026-02-11,Fernanda Lima,Câmera GoPro,3,1899.9,0.05,5414.72,Concluído
-2026-02-11,Fernanda Lima,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
-2026-02-02,Fernanda Lima,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-02-02,Fernanda Lima,Console PlayStation 5,3,4299.9,0.05,12254.71,Concluído
-2026-01-18,Fernanda Lima,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-01-18,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-01-18,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-03-19,Fernanda Lima,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-03-19,Fernanda Lima,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Cancelado
-2026-03-19,Fernanda Lima,Fone Bluetooth JBL,1,299.9,0.1,269.91,Concluído
-2026-01-13,Fernanda Lima,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-01-13,Fernanda Lima,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-01-13,Fernanda Lima,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-01-15,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-01-04,Fernanda Lima,Console PlayStation 5,3,4299.9,0.05,12254.71,Concluído
-2026-01-04,Fernanda Lima,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-01-04,Fernanda Lima,"Smart TV 50""",2,2199.9,0.05,4179.81,Concluído
-2026-01-08,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-01-08,Fernanda Lima,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
-2026-03-30,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-03-24,Fernanda Lima,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-03-24,Fernanda Lima,Notebook Dell Inspiron,3,3499.9,0.1,9449.73,Concluído
-2026-03-24,Fernanda Lima,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-03-04,Fernanda Lima,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
-2026-03-04,Fernanda Lima,"Monitor LG 24""",3,1099.9,0.1,2969.73,Concluído
-2026-01-22,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-03-12,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-03-12,Fernanda Lima,"Monitor LG 24""",1,1099.9,0.05,1044.9,Concluído
-2026-03-12,Fernanda Lima,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-03-12,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-02-27,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.05,1709.71,Concluído
-2026-02-27,Fernanda Lima,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
-2026-02-27,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.1,1079.82,Concluído
-2026-03-01,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.05,854.71,Concluído
-2026-03-01,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-01-12,Fernanda Lima,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-01-06,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-01-31,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-01-31,Fernanda Lima,"Smart TV 50""",2,2199.9,0.1,3959.82,Concluído
-2026-01-31,Fernanda Lima,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-03-23,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Cancelado
-2026-03-21,Fernanda Lima,Smartphone Samsung A54,3,1299.9,0.05,3704.72,Concluído
-2026-03-21,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
-2026-03-21,Fernanda Lima,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-03-10,Fernanda Lima,"Monitor LG 24""",1,1099.9,0.1,989.91,Concluído
-2026-03-10,Fernanda Lima,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-03-10,Fernanda Lima,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-03-10,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-02-13,Fernanda Lima,Notebook Dell Inspiron,3,3499.9,0.1,9449.73,Concluído
-2026-02-13,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-02-13,Fernanda Lima,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-02-13,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.05,1709.71,Concluído
-2026-02-26,Fernanda Lima,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-02-26,Fernanda Lima,Console PlayStation 5,3,4299.9,0.05,12254.71,Concluído
-2026-03-11,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
-2026-03-11,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
-2026-03-11,Fernanda Lima,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-03-11,Fernanda Lima,Console PlayStation 5,1,4299.9,0.1,3869.91,Concluído
-2026-01-17,Fernanda Lima,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
-2026-01-17,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
-2026-01-17,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-01-17,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
-2026-01-26,Fernanda Lima,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
-2026-01-26,Fernanda Lima,Notebook Dell Inspiron,2,3499.9,0.1,6299.82,Concluído
-2026-02-04,Fernanda Lima,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-03-13,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-03-22,Fernanda Lima,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-02-23,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
-2026-02-23,Fernanda Lima,Smartwatch Xiaomi,1,599.9,0.1,539.91,Concluído
-2026-03-06,Fernanda Lima,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-03-06,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-03-13,Ricardo Santos,Console PlayStation 5,2,4299.9,0.1,7739.82,Concluído
-2026-03-08,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-01-14,Ricardo Santos,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-01-14,Ricardo Santos,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
-2026-01-14,Ricardo Santos,Tablet Lenovo,1,1599.9,0.05,1519.9,Concluído
-2026-01-14,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.05,569.81,Concluído
-2026-02-01,Ricardo Santos,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
-2026-02-12,Ricardo Santos,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-02-12,Ricardo Santos,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-01-04,Ricardo Santos,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-01-04,Ricardo Santos,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-01-04,Ricardo Santos,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Cancelado
-2026-01-04,Ricardo Santos,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
-2026-03-15,Ricardo Santos,Console PlayStation 5,1,4299.9,0.1,3869.91,Concluído
-2026-03-15,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.05,9974.72,Concluído
-2026-03-15,Ricardo Santos,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-03-23,Ricardo Santos,Tablet Lenovo,3,1599.9,0.1,4319.73,Concluído
-2026-02-22,Ricardo Santos,"Smart TV 50""",1,2199.9,0.1,1979.91,Cancelado
-2026-02-22,Ricardo Santos,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
-2026-02-14,Ricardo Santos,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-02-14,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.05,9974.72,Concluído
-2026-02-10,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
-2026-02-10,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-02-10,Ricardo Santos,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-02-10,Ricardo Santos,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-03-25,Ricardo Santos,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-03-25,Ricardo Santos,Câmera GoPro,2,1899.9,0.1,3419.82,Concluído
-2026-03-25,Ricardo Santos,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
-2026-03-25,Ricardo Santos,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-03-26,Ricardo Santos,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
-2026-03-26,Ricardo Santos,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
-2026-03-26,Ricardo Santos,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-01-24,Ricardo Santos,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
-2026-01-24,Ricardo Santos,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
-2026-01-25,Ricardo Santos,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
-2026-02-16,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.0,599.8,Cancelado
-2026-01-09,Ricardo Santos,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
-2026-01-09,Ricardo Santos,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
-2026-02-26,Ricardo Santos,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-02-26,Ricardo Santos,Caixa de Som Portátil,2,449.9,0.05,854.81,Concluído
-2026-01-06,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-06,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-12,Ricardo Santos,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-01-12,Ricardo Santos,Notebook Dell Inspiron,2,3499.9,0.05,6649.81,Concluído
-2026-01-12,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-01-23,Ricardo Santos,Fone Bluetooth JBL,1,299.9,0.1,269.91,Concluído
-2026-01-23,Ricardo Santos,Console PlayStation 5,3,4299.9,0.05,12254.71,Concluído
-2026-01-23,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.1,9449.73,Cancelado
-2026-03-24,Ricardo Santos,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-03-02,Ricardo Santos,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-02-07,Ricardo Santos,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-03-07,Ricardo Santos,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
-2026-03-07,Ricardo Santos,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-03-07,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.1,539.82,Concluído
-2026-03-07,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-02-02,Ricardo Santos,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-02-02,Ricardo Santos,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-02-02,Ricardo Santos,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-02-23,Ricardo Santos,Console PlayStation 5,2,4299.9,0.05,8169.81,Concluído
-2026-02-23,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.1,9449.73,Concluído
-2026-02-23,Ricardo Santos,Caixa de Som Portátil,2,449.9,0.05,854.81,Concluído
-2026-02-23,Ricardo Santos,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-01-03,Ricardo Santos,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
-2026-01-03,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.1,9449.73,Concluído
-2026-01-03,Ricardo Santos,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
-2026-02-17,Ricardo Santos,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
-2026-02-17,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
-2026-03-30,Ricardo Santos,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
-2026-03-30,Ricardo Santos,Tablet Lenovo,3,1599.9,0.1,4319.73,Concluído
-2026-03-30,Ricardo Santos,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
-2026-01-18,Ricardo Santos,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
-2026-01-18,Ricardo Santos,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
-2026-01-18,Ricardo Santos,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-01-21,Ricardo Santos,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
-2026-02-28,Ricardo Santos,"Monitor LG 24""",1,1099.9,0.0,1099.9,Cancelado
-2026-02-28,Ricardo Santos,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Cancelado
-2026-02-28,Ricardo Santos,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
-2026-02-28,Ricardo Santos,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
-2026-03-28,Ricardo Santos,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-03-28,Ricardo Santos,Console PlayStation 5,1,4299.9,0.1,3869.91,Cancelado
-2026-02-04,Ricardo Santos,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-02-04,Ricardo Santos,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-02-04,Ricardo Santos,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
-2026-02-15,Ricardo Santos,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-01-29,Ricardo Santos,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
-2026-01-29,Ricardo Santos,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-01-29,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-01-29,Ricardo Santos,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
-2026-03-01,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-03-01,Ricardo Santos,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-03-20,Ricardo Santos,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
-2026-03-17,Ricardo Santos,"Monitor LG 24""",3,1099.9,0.1,2969.73,Concluído
-2026-03-19,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-03-22,Ricardo Santos,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
-2026-03-22,Ricardo Santos,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
-2026-03-22,Ricardo Santos,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
-2026-03-21,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-03-21,Ricardo Santos,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-03-29,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-03-29,Ricardo Santos,Console PlayStation 5,3,4299.9,0.1,11609.73,Concluído
-2026-02-24,Ricardo Santos,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-02-12,Juliana Rocha,Caixa de Som Portátil,2,449.9,0.0,899.8,Cancelado
-2026-02-19,Juliana Rocha,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-02-19,Juliana Rocha,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
-2026-02-19,Juliana Rocha,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
-2026-01-13,Juliana Rocha,"Monitor LG 24""",3,1099.9,0.1,2969.73,Concluído
-2026-01-13,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-02-08,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-02-22,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-02-22,Juliana Rocha,Tablet Lenovo,3,1599.9,0.1,4319.73,Concluído
-2026-02-22,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-01-19,Juliana Rocha,"Monitor LG 24""",3,1099.9,0.0,3299.7,Cancelado
-2026-02-17,Juliana Rocha,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
-2026-02-17,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.05,569.81,Concluído
-2026-01-08,Juliana Rocha,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-01-16,Juliana Rocha,Console PlayStation 5,1,4299.9,0.05,4084.9,Cancelado
-2026-01-25,Juliana Rocha,Console PlayStation 5,3,4299.9,0.1,11609.73,Concluído
-2026-01-25,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-01-25,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-03-31,Juliana Rocha,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
-2026-03-31,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.05,3324.9,Concluído
-2026-03-31,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-03-31,Juliana Rocha,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-03-22,Juliana Rocha,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-03-22,Juliana Rocha,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
-2026-03-22,Juliana Rocha,Câmera GoPro,1,1899.9,0.05,1804.9,Concluído
-2026-03-16,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
-2026-03-16,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-03-16,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-14,Juliana Rocha,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-01-14,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-14,Juliana Rocha,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-01-05,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.1,2339.82,Concluído
-2026-01-05,Juliana Rocha,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-03-01,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-03-01,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.05,284.9,Concluído
-2026-02-11,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.1,539.82,Concluído
-2026-02-11,Juliana Rocha,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
-2026-02-11,Juliana Rocha,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
-2026-02-11,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-02-03,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-02-03,Juliana Rocha,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
-2026-02-03,Juliana Rocha,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
-2026-03-24,Juliana Rocha,Console PlayStation 5,1,4299.9,0.1,3869.91,Concluído
-2026-03-24,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.05,284.9,Concluído
-2026-03-24,Juliana Rocha,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-03-24,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.1,809.73,Concluído
-2026-02-24,Juliana Rocha,Câmera GoPro,2,1899.9,0.1,3419.82,Concluído
-2026-02-24,Juliana Rocha,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-02-24,Juliana Rocha,Tablet Lenovo,2,1599.9,0.1,2879.82,Concluído
-2026-01-27,Juliana Rocha,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
-2026-01-27,Juliana Rocha,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-02-04,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
-2026-03-26,Juliana Rocha,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-03-18,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.1,809.73,Concluído
-2026-03-12,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-03-12,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-03-12,Juliana Rocha,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
-2026-03-12,Juliana Rocha,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-02-26,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
-2026-03-10,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
-2026-03-10,Juliana Rocha,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-03-10,Juliana Rocha,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-03-10,Juliana Rocha,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
-2026-03-30,Juliana Rocha,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-03-30,Juliana Rocha,"Smart TV 50""",3,2199.9,0.0,6599.7,Cancelado
-2026-03-30,Juliana Rocha,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
-2026-03-30,Juliana Rocha,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-03-02,Juliana Rocha,"Monitor LG 24""",1,1099.9,0.1,989.91,Concluído
-2026-03-02,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.05,1139.81,Concluído
-2026-03-02,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-03-17,Juliana Rocha,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-03-17,Juliana Rocha,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-02-28,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.1,6299.82,Concluído
-2026-02-28,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.1,1079.82,Concluído
-2026-01-07,Juliana Rocha,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-01-07,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-01-07,Juliana Rocha,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
-2026-03-25,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.05,284.9,Concluído
-2026-03-25,Juliana Rocha,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
-2026-02-21,Juliana Rocha,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
-2026-02-21,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
-2026-03-20,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.05,1139.81,Concluído
-2026-03-20,Juliana Rocha,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
-2026-02-09,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.1,6299.82,Concluído
-2026-02-09,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-02-09,Juliana Rocha,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
-2026-02-09,Juliana Rocha,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
-2026-03-28,Juliana Rocha,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
-2026-03-28,Juliana Rocha,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-03-28,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
-2026-01-26,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-01-12,Juliana Rocha,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
-2026-01-17,Juliana Rocha,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-02-14,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Cancelado
-2026-02-14,Juliana Rocha,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-01-28,Juliana Rocha,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
-2026-01-28,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-11,Juliana Rocha,Tablet Lenovo,2,1599.9,0.1,2879.82,Concluído
-2026-01-11,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.1,269.91,Concluído
-2026-03-23,Juliana Rocha,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-03-23,Juliana Rocha,"Monitor LG 24""",3,1099.9,0.05,3134.72,Concluído
-2026-03-23,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-03-07,Juliana Rocha,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-03-07,Juliana Rocha,"Monitor LG 24""",2,1099.9,0.1,1979.82,Concluído
-2026-03-07,Juliana Rocha,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-03-07,Juliana Rocha,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-04-02,Juliana Rocha,Smartphone Samsung A54,3,1299.9,0.05,3704.72,Concluído
-2026-04-02,Juliana Rocha,Caixa de Som Portátil,2,449.9,0.1,809.82,Concluído
-2026-04-02,Juliana Rocha,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-04-02,Juliana Rocha,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-01-24,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-03-27,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.1,2339.82,Concluído
-2026-02-18,Juliana Rocha,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-02-18,Juliana Rocha,"Monitor LG 24""",3,1099.9,0.1,2969.73,Concluído
-2026-02-18,Juliana Rocha,Tablet Lenovo,1,1599.9,0.1,1439.91,Concluído
-2026-03-05,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-02-16,Juliana Rocha,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
-2026-02-16,Juliana Rocha,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-02-16,Juliana Rocha,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
-2026-02-15,Juliana Rocha,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
-2026-02-15,Juliana Rocha,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-02-15,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-02-15,Juliana Rocha,Câmera GoPro,1,1899.9,0.1,1709.91,Concluído
-2026-01-03,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-03,Juliana Rocha,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-01-03,Juliana Rocha,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-03-03,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.1,809.73,Concluído
-2026-03-03,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-03-03,Juliana Rocha,Tablet Lenovo,2,1599.9,0.1,2879.82,Concluído
-2026-03-13,Juliana Rocha,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
-2026-03-13,Juliana Rocha,Tablet Lenovo,1,1599.9,0.1,1439.91,Concluído
-2026-02-25,Juliana Rocha,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-02-25,Juliana Rocha,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-03-14,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-01-22,Juliana Rocha,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
-2026-01-22,Juliana Rocha,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
-2026-03-19,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-03-08,Juliana Rocha,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-03-08,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.05,1139.81,Concluído
-2026-03-09,Juliana Rocha,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-03-09,Juliana Rocha,Console PlayStation 5,1,4299.9,0.05,4084.9,Concluído
-2026-03-09,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.05,569.81,Concluído
-2026-03-04,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
-2026-03-04,Juliana Rocha,Caixa de Som Portátil,2,449.9,0.05,854.81,Concluído
-2026-03-04,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-03-04,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
-2026-02-13,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
-2026-02-13,Juliana Rocha,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-02-13,Juliana Rocha,"Monitor LG 24""",1,1099.9,0.05,1044.9,Concluído
-2026-02-20,André Costa,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-02-20,André Costa,Câmera GoPro,1,1899.9,0.1,1709.91,Concluído
-2026-02-10,André Costa,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-02-10,André Costa,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-03-21,André Costa,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
-2026-03-21,André Costa,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-03-21,André Costa,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
-2026-03-21,André Costa,Tablet Lenovo,1,1599.9,0.05,1519.9,Concluído
-2026-03-09,André Costa,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-03-09,André Costa,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-03-09,André Costa,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
-2026-03-09,André Costa,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
-2026-02-07,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-02-07,André Costa,Caixa de Som Portátil,2,449.9,0.0,899.8,Cancelado
-2026-03-26,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-03-26,André Costa,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
-2026-02-25,André Costa,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
-2026-02-25,André Costa,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
-2026-02-25,André Costa,Câmera GoPro,1,1899.9,0.1,1709.91,Concluído
-2026-02-27,André Costa,Caixa de Som Portátil,1,449.9,0.05,427.4,Concluído
-2026-03-02,André Costa,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-03-02,André Costa,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
-2026-03-02,André Costa,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
-2026-01-25,André Costa,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
-2026-03-14,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-03-14,André Costa,Tablet Lenovo,1,1599.9,0.05,1519.9,Concluído
-2026-03-14,André Costa,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
-2026-03-14,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-03-27,André Costa,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
-2026-03-27,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-03-27,André Costa,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
-2026-03-27,André Costa,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-02-08,André Costa,Fone Bluetooth JBL,2,299.9,0.05,569.81,Concluído
-2026-02-08,André Costa,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
-2026-02-08,André Costa,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-01-12,André Costa,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
-2026-01-16,André Costa,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
-2026-01-16,André Costa,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-01-16,André Costa,Fone Bluetooth JBL,1,299.9,0.1,269.91,Concluído
-2026-01-16,André Costa,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
-2026-01-19,André Costa,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-01-19,André Costa,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
-2026-01-19,André Costa,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
-2026-02-28,André Costa,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-02-15,André Costa,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
-2026-02-15,André Costa,"Smart TV 50""",3,2199.9,0.1,5939.73,Concluído
-2026-02-15,André Costa,Smartphone Samsung A54,3,1299.9,0.05,3704.72,Concluído
-2026-01-26,André Costa,Tablet Lenovo,1,1599.9,0.05,1519.9,Concluído
-2026-02-14,André Costa,"Monitor LG 24""",3,1099.9,0.05,3134.72,Concluído
-2026-01-24,André Costa,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
-2026-01-24,André Costa,Smartphone Samsung A54,3,1299.9,0.05,3704.72,Concluído
-2026-01-24,André Costa,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
-2026-01-24,André Costa,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-03-30,André Costa,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
-2026-03-30,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-03-30,André Costa,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-03-30,André Costa,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
-2026-03-29,André Costa,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
-2026-03-22,André Costa,Tablet Lenovo,2,1599.9,0.1,2879.82,Concluído
-2026-03-22,André Costa,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-03-06,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-03-06,André Costa,"Monitor LG 24""",1,1099.9,0.1,989.91,Concluído
-2026-03-06,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-03-06,André Costa,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-02-12,André Costa,Console PlayStation 5,1,4299.9,0.1,3869.91,Concluído
-2026-02-12,André Costa,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
-2026-02-12,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-03-07,André Costa,Caixa de Som Portátil,2,449.9,0.05,854.81,Concluído
-2026-03-07,André Costa,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
-2026-03-10,André Costa,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-03-12,André Costa,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-03-12,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-03-12,André Costa,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
-2026-03-12,André Costa,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-20,André Costa,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
-2026-01-08,André Costa,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-03-17,André Costa,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
-2026-03-17,André Costa,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-03-17,André Costa,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
-2026-03-08,André Costa,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
-2026-03-08,André Costa,Fone Bluetooth JBL,1,299.9,0.1,269.91,Cancelado
-2026-03-08,André Costa,Câmera GoPro,1,1899.9,0.1,1709.91,Concluído
-2026-01-31,André Costa,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
-2026-02-21,André Costa,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-02-21,André Costa,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-02-21,André Costa,Tablet Lenovo,3,1599.9,0.05,4559.72,Concluído
-2026-02-06,André Costa,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
-2026-02-06,André Costa,Notebook Dell Inspiron,3,3499.9,0.05,9974.72,Concluído
-2026-02-06,André Costa,Smartphone Samsung A54,3,1299.9,0.05,3704.72,Concluído
-2026-02-06,André Costa,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
-2026-03-05,André Costa,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
-2026-03-05,André Costa,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
-2026-03-05,André Costa,Câmera GoPro,1,1899.9,0.05,1804.9,Concluído
-2026-01-28,André Costa,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-01-28,André Costa,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
-2026-02-23,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Cancelado
-2026-01-22,André Costa,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-01-22,André Costa,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
-2026-01-22,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
-2026-01-22,André Costa,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-03-01,André Costa,Fone Bluetooth JBL,3,299.9,0.1,809.73,Concluído
-2026-03-01,André Costa,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-03-01,André Costa,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-02-22,André Costa,Console PlayStation 5,2,4299.9,0.1,7739.82,Concluído
-2026-03-16,André Costa,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
-2026-03-16,André Costa,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
-2026-03-16,André Costa,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
-2026-03-19,André Costa,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
-2026-03-19,André Costa,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
-2026-03-19,André Costa,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
-2026-01-27,André Costa,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
-2026-01-07,André Costa,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
-2026-01-07,André Costa,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
-2026-01-07,André Costa,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
-2026-03-18,André Costa,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
-2026-03-18,André Costa,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
-2026-03-18,André Costa,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
-2026-02-02,André Costa,Smartwatch Xiaomi,3,599.9,0.05,1709.71,Concluído
-2026-02-02,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
-2026-02-09,André Costa,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
-2026-02-09,André Costa,Tablet Lenovo,1,1599.9,0.1,1439.91,Concluído
-2026-02-09,André Costa,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
-2026-01-30,André Costa,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
-2026-03-11,André Costa,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
-2026-03-11,André Costa,Fone Bluetooth JBL,1,299.9,0.05,284.9,Concluído
-2026-03-11,André Costa,Console PlayStation 5,2,4299.9,0.05,8169.81,Concluído
-2026-03-11,André Costa,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-07-12,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-07-12,Carlos Silva,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-07-12,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-07-12,Carlos Silva,Console PlayStation 5,1,4299.9,0.05,4084.9,Concluído
+2026-06-24,Carlos Silva,Console PlayStation 5,3,4299.9,0.1,11609.73,Concluído
+2026-06-24,Carlos Silva,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-06-24,Carlos Silva,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-06-24,Carlos Silva,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-07-27,Carlos Silva,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
+2026-07-27,Carlos Silva,Console PlayStation 5,1,4299.9,0.05,4084.9,Concluído
+2026-07-27,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.1,539.82,Concluído
+2026-08-11,Carlos Silva,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-06-02,Carlos Silva,Notebook Dell Inspiron,2,3499.9,0.1,6299.82,Concluído
+2026-06-02,Carlos Silva,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
+2026-06-02,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-02,Carlos Silva,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-06-28,Carlos Silva,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-06-28,Carlos Silva,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-06-28,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-07-11,Carlos Silva,Câmera GoPro,1,1899.9,0.05,1804.9,Concluído
+2026-07-11,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
+2026-07-11,Carlos Silva,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
+2026-08-06,Carlos Silva,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-06-12,Carlos Silva,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
+2026-06-12,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-07-16,Carlos Silva,Câmera GoPro,3,1899.9,0.05,5414.72,Concluído
+2026-07-16,Carlos Silva,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-08-22,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-08-22,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
+2026-08-22,Carlos Silva,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
+2026-08-22,Carlos Silva,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-07-07,Carlos Silva,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-07-07,Carlos Silva,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
+2026-07-07,Carlos Silva,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-07-28,Carlos Silva,"Monitor LG 24""",3,1099.9,0.05,3134.72,Concluído
+2026-07-28,Carlos Silva,Caixa de Som Portátil,1,449.9,0.0,449.9,Cancelado
+2026-08-27,Carlos Silva,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
+2026-08-27,Carlos Silva,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-06-14,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-14,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
+2026-06-14,Carlos Silva,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-06-06,Carlos Silva,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-06-06,Carlos Silva,Caixa de Som Portátil,1,449.9,0.05,427.4,Concluído
+2026-06-06,Carlos Silva,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-06-06,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-06-20,Carlos Silva,Câmera GoPro,2,1899.9,0.1,3419.82,Concluído
+2026-06-20,Carlos Silva,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-06-30,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-06-30,Carlos Silva,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-07-21,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-07-21,Carlos Silva,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
+2026-07-21,Carlos Silva,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-07-21,Carlos Silva,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-08-03,Carlos Silva,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-08-03,Carlos Silva,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-08-03,Carlos Silva,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-08-03,Carlos Silva,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
+2026-08-14,Carlos Silva,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
+2026-08-10,Carlos Silva,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-08-10,Carlos Silva,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-08-17,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
+2026-08-17,Carlos Silva,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-08-17,Carlos Silva,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
+2026-08-17,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-07-02,Carlos Silva,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
+2026-07-05,Carlos Silva,Console PlayStation 5,2,4299.9,0.1,7739.82,Concluído
+2026-06-13,Carlos Silva,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
+2026-06-13,Carlos Silva,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-08-07,Carlos Silva,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-08-07,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-08-07,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
+2026-08-08,Carlos Silva,Câmera GoPro,1,1899.9,0.1,1709.91,Concluído
+2026-08-08,Carlos Silva,Console PlayStation 5,3,4299.9,0.1,11609.73,Concluído
+2026-07-03,Carlos Silva,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-07-03,Carlos Silva,Caixa de Som Portátil,1,449.9,0.05,427.4,Concluído
+2026-07-03,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
+2026-08-16,Carlos Silva,"Monitor LG 24""",2,1099.9,0.1,1979.82,Concluído
+2026-08-16,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.1,2339.82,Concluído
+2026-08-16,Carlos Silva,"Monitor LG 24""",2,1099.9,0.1,1979.82,Concluído
+2026-08-16,Carlos Silva,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-06-11,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
+2026-06-11,Carlos Silva,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-08-09,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-08-09,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
+2026-08-09,Carlos Silva,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-08-09,Carlos Silva,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-06-07,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.1,2339.82,Concluído
+2026-06-07,Carlos Silva,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
+2026-06-07,Carlos Silva,Console PlayStation 5,2,4299.9,0.1,7739.82,Concluído
+2026-07-14,Carlos Silva,Smartwatch Xiaomi,1,599.9,0.1,539.91,Cancelado
+2026-07-14,Carlos Silva,Fone Bluetooth JBL,2,299.9,0.1,539.82,Concluído
+2026-07-14,Carlos Silva,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-07-19,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
+2026-07-19,Carlos Silva,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-06-18,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
+2026-06-18,Carlos Silva,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
+2026-07-17,Carlos Silva,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
+2026-07-17,Carlos Silva,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-07-17,Carlos Silva,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
+2026-07-17,Carlos Silva,Fone Bluetooth JBL,3,299.9,0.1,809.73,Concluído
+2026-07-06,Carlos Silva,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
+2026-07-06,Carlos Silva,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-07-06,Carlos Silva,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-06-09,Carlos Silva,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-06-09,Carlos Silva,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
+2026-06-09,Carlos Silva,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-08-19,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-06-29,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
+2026-06-21,Carlos Silva,Caixa de Som Portátil,1,449.9,0.05,427.4,Concluído
+2026-06-21,Carlos Silva,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-06-21,Carlos Silva,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
+2026-08-25,Carlos Silva,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-08-25,Carlos Silva,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-08-25,Carlos Silva,"Smart TV 50""",1,2199.9,0.05,2089.91,Cancelado
+2026-06-27,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
+2026-06-27,Carlos Silva,Câmera GoPro,2,1899.9,0.05,3609.81,Cancelado
+2026-06-27,Carlos Silva,Tablet Lenovo,2,1599.9,0.1,2879.82,Cancelado
+2026-07-25,Carlos Silva,Fone Bluetooth JBL,3,299.9,0.0,899.7,Cancelado
+2026-06-15,Carlos Silva,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-06-15,Carlos Silva,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-06-26,Carlos Silva,Smartwatch Xiaomi,2,599.9,0.05,1139.81,Concluído
+2026-06-26,Carlos Silva,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
+2026-06-05,Carlos Silva,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
+2026-06-05,Carlos Silva,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-06-05,Carlos Silva,Tablet Lenovo,1,1599.9,0.05,1519.9,Concluído
+2026-06-05,Carlos Silva,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-06-19,Carlos Silva,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-07-10,Carlos Silva,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-07-10,Carlos Silva,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-06-10,Carlos Silva,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-06-10,Carlos Silva,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
+2026-08-28,Carlos Silva,Tablet Lenovo,3,1599.9,0.05,4559.72,Concluído
+2026-06-08,Carlos Silva,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-06-08,Carlos Silva,Tablet Lenovo,1,1599.9,0.1,1439.91,Concluído
+2026-06-08,Carlos Silva,"Smart TV 50""",1,2199.9,0.1,1979.91,Concluído
+2026-08-05,Carlos Silva,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
+2026-08-05,Carlos Silva,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
+2026-07-12,Fernanda Lima,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-07-12,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-07-08,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.1,1079.82,Concluído
+2026-07-08,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-07-03,Fernanda Lima,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-07-03,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
+2026-07-19,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-07-19,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
+2026-07-19,Fernanda Lima,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-28,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-06-28,Fernanda Lima,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
+2026-07-30,Fernanda Lima,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
+2026-07-31,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
+2026-07-31,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
+2026-06-08,Fernanda Lima,Câmera GoPro,3,1899.9,0.05,5414.72,Concluído
+2026-06-08,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-07-07,Fernanda Lima,Smartwatch Xiaomi,1,599.9,0.05,569.9,Cancelado
+2026-07-07,Fernanda Lima,Câmera GoPro,2,1899.9,0.05,3609.81,Cancelado
+2026-07-07,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-07-06,Fernanda Lima,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-07-06,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-08-15,Fernanda Lima,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
+2026-08-29,Fernanda Lima,Fone Bluetooth JBL,1,299.9,0.05,284.9,Concluído
+2026-08-11,Fernanda Lima,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
+2026-08-11,Fernanda Lima,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-08-17,Fernanda Lima,Console PlayStation 5,2,4299.9,0.05,8169.81,Concluído
+2026-08-23,Fernanda Lima,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
+2026-08-23,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-08-23,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Cancelado
+2026-08-23,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-06-10,Fernanda Lima,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-06-10,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-06-10,Fernanda Lima,"Smart TV 50""",1,2199.9,0.1,1979.91,Concluído
+2026-06-23,Fernanda Lima,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
+2026-06-23,Fernanda Lima,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
+2026-06-23,Fernanda Lima,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
+2026-06-02,Fernanda Lima,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
+2026-07-14,Fernanda Lima,Console PlayStation 5,2,4299.9,0.1,7739.82,Concluído
+2026-07-20,Fernanda Lima,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
+2026-07-20,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.05,1139.81,Concluído
+2026-07-20,Fernanda Lima,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
+2026-08-28,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
+2026-08-28,Fernanda Lima,Console PlayStation 5,1,4299.9,0.05,4084.9,Concluído
+2026-07-16,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-07-16,Fernanda Lima,Câmera GoPro,1,1899.9,0.05,1804.9,Concluído
+2026-06-22,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
+2026-06-22,Fernanda Lima,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-06-22,Fernanda Lima,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
+2026-06-22,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-07-24,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-07-24,Fernanda Lima,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
+2026-06-20,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.05,1709.71,Concluído
+2026-06-20,Fernanda Lima,Fone Bluetooth JBL,1,299.9,0.1,269.91,Concluído
+2026-06-20,Fernanda Lima,"Monitor LG 24""",1,1099.9,0.05,1044.9,Concluído
+2026-06-19,Fernanda Lima,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
+2026-06-29,Fernanda Lima,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-08-25,Fernanda Lima,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
+2026-06-26,Fernanda Lima,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-07-17,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-08-02,Fernanda Lima,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-07-15,Fernanda Lima,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-07-15,Fernanda Lima,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
+2026-07-15,Fernanda Lima,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-07-15,Fernanda Lima,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-08-22,Fernanda Lima,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
+2026-08-22,Fernanda Lima,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
+2026-06-09,Fernanda Lima,Console PlayStation 5,1,4299.9,0.05,4084.9,Concluído
+2026-08-14,Fernanda Lima,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
+2026-08-14,Fernanda Lima,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-08-14,Fernanda Lima,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
+2026-08-14,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
+2026-07-11,Fernanda Lima,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-07-11,Fernanda Lima,Notebook Dell Inspiron,2,3499.9,0.05,6649.81,Concluído
+2026-07-11,Fernanda Lima,Câmera GoPro,3,1899.9,0.05,5414.72,Concluído
+2026-07-11,Fernanda Lima,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
+2026-07-02,Fernanda Lima,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-07-02,Fernanda Lima,Console PlayStation 5,3,4299.9,0.05,12254.71,Concluído
+2026-06-17,Fernanda Lima,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-06-17,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-06-17,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-08-16,Fernanda Lima,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-08-16,Fernanda Lima,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Cancelado
+2026-08-16,Fernanda Lima,Fone Bluetooth JBL,1,299.9,0.1,269.91,Concluído
+2026-06-12,Fernanda Lima,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-06-12,Fernanda Lima,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-06-12,Fernanda Lima,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-06-14,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-06-03,Fernanda Lima,Console PlayStation 5,3,4299.9,0.05,12254.71,Concluído
+2026-06-03,Fernanda Lima,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-06-03,Fernanda Lima,"Smart TV 50""",2,2199.9,0.05,4179.81,Concluído
+2026-06-07,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-06-07,Fernanda Lima,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
+2026-08-27,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-08-21,Fernanda Lima,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-08-21,Fernanda Lima,Notebook Dell Inspiron,3,3499.9,0.1,9449.73,Concluído
+2026-08-21,Fernanda Lima,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-08-01,Fernanda Lima,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
+2026-08-01,Fernanda Lima,"Monitor LG 24""",3,1099.9,0.1,2969.73,Concluído
+2026-06-21,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-08-09,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-08-09,Fernanda Lima,"Monitor LG 24""",1,1099.9,0.05,1044.9,Concluído
+2026-08-09,Fernanda Lima,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-08-09,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-07-27,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.05,1709.71,Concluído
+2026-07-27,Fernanda Lima,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
+2026-07-27,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.1,1079.82,Concluído
+2026-07-29,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.05,854.71,Concluído
+2026-07-29,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-06-11,Fernanda Lima,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-06-05,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-06-30,Fernanda Lima,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-06-30,Fernanda Lima,"Smart TV 50""",2,2199.9,0.1,3959.82,Concluído
+2026-06-30,Fernanda Lima,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-08-20,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Cancelado
+2026-08-18,Fernanda Lima,Smartphone Samsung A54,3,1299.9,0.05,3704.72,Concluído
+2026-08-18,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
+2026-08-18,Fernanda Lima,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-08-07,Fernanda Lima,"Monitor LG 24""",1,1099.9,0.1,989.91,Concluído
+2026-08-07,Fernanda Lima,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-08-07,Fernanda Lima,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-08-07,Fernanda Lima,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-07-13,Fernanda Lima,Notebook Dell Inspiron,3,3499.9,0.1,9449.73,Concluído
+2026-07-13,Fernanda Lima,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-07-13,Fernanda Lima,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-07-13,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.05,1709.71,Concluído
+2026-07-26,Fernanda Lima,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-07-26,Fernanda Lima,Console PlayStation 5,3,4299.9,0.05,12254.71,Concluído
+2026-08-08,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
+2026-08-08,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
+2026-08-08,Fernanda Lima,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-08-08,Fernanda Lima,Console PlayStation 5,1,4299.9,0.1,3869.91,Concluído
+2026-06-16,Fernanda Lima,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
+2026-06-16,Fernanda Lima,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
+2026-06-16,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-06-16,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
+2026-06-25,Fernanda Lima,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
+2026-06-25,Fernanda Lima,Notebook Dell Inspiron,2,3499.9,0.1,6299.82,Concluído
+2026-07-04,Fernanda Lima,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-08-10,Fernanda Lima,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-08-19,Fernanda Lima,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-07-23,Fernanda Lima,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
+2026-07-23,Fernanda Lima,Smartwatch Xiaomi,1,599.9,0.1,539.91,Concluído
+2026-08-03,Fernanda Lima,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-08-03,Fernanda Lima,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-08-10,Ricardo Santos,Console PlayStation 5,2,4299.9,0.1,7739.82,Concluído
+2026-08-05,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-06-13,Ricardo Santos,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-06-13,Ricardo Santos,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
+2026-06-13,Ricardo Santos,Tablet Lenovo,1,1599.9,0.05,1519.9,Concluído
+2026-06-13,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.05,569.81,Concluído
+2026-07-01,Ricardo Santos,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
+2026-07-12,Ricardo Santos,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-07-12,Ricardo Santos,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-06-03,Ricardo Santos,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-06-03,Ricardo Santos,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-06-03,Ricardo Santos,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Cancelado
+2026-06-03,Ricardo Santos,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
+2026-08-12,Ricardo Santos,Console PlayStation 5,1,4299.9,0.1,3869.91,Concluído
+2026-08-12,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.05,9974.72,Concluído
+2026-08-12,Ricardo Santos,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-08-20,Ricardo Santos,Tablet Lenovo,3,1599.9,0.1,4319.73,Concluído
+2026-07-22,Ricardo Santos,"Smart TV 50""",1,2199.9,0.1,1979.91,Cancelado
+2026-07-22,Ricardo Santos,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
+2026-07-14,Ricardo Santos,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-07-14,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.05,9974.72,Concluído
+2026-07-10,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
+2026-07-10,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-07-10,Ricardo Santos,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-07-10,Ricardo Santos,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-08-22,Ricardo Santos,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-08-22,Ricardo Santos,Câmera GoPro,2,1899.9,0.1,3419.82,Concluído
+2026-08-22,Ricardo Santos,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
+2026-08-22,Ricardo Santos,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-08-23,Ricardo Santos,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
+2026-08-23,Ricardo Santos,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
+2026-08-23,Ricardo Santos,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-06-23,Ricardo Santos,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
+2026-06-23,Ricardo Santos,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
+2026-06-24,Ricardo Santos,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
+2026-07-16,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.0,599.8,Cancelado
+2026-06-08,Ricardo Santos,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
+2026-06-08,Ricardo Santos,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
+2026-07-26,Ricardo Santos,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-07-26,Ricardo Santos,Caixa de Som Portátil,2,449.9,0.05,854.81,Concluído
+2026-06-05,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-05,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-11,Ricardo Santos,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-06-11,Ricardo Santos,Notebook Dell Inspiron,2,3499.9,0.05,6649.81,Concluído
+2026-06-11,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-06-22,Ricardo Santos,Fone Bluetooth JBL,1,299.9,0.1,269.91,Concluído
+2026-06-22,Ricardo Santos,Console PlayStation 5,3,4299.9,0.05,12254.71,Concluído
+2026-06-22,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.1,9449.73,Cancelado
+2026-08-21,Ricardo Santos,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-07-30,Ricardo Santos,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-07-07,Ricardo Santos,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-08-04,Ricardo Santos,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
+2026-08-04,Ricardo Santos,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-08-04,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.1,539.82,Concluído
+2026-08-04,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-07-02,Ricardo Santos,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-07-02,Ricardo Santos,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-07-02,Ricardo Santos,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-07-23,Ricardo Santos,Console PlayStation 5,2,4299.9,0.05,8169.81,Concluído
+2026-07-23,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.1,9449.73,Concluído
+2026-07-23,Ricardo Santos,Caixa de Som Portátil,2,449.9,0.05,854.81,Concluído
+2026-07-23,Ricardo Santos,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-06-02,Ricardo Santos,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
+2026-06-02,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.1,9449.73,Concluído
+2026-06-02,Ricardo Santos,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
+2026-07-17,Ricardo Santos,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
+2026-07-17,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
+2026-08-27,Ricardo Santos,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
+2026-08-27,Ricardo Santos,Tablet Lenovo,3,1599.9,0.1,4319.73,Concluído
+2026-08-27,Ricardo Santos,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
+2026-06-17,Ricardo Santos,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
+2026-06-17,Ricardo Santos,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
+2026-06-17,Ricardo Santos,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-06-20,Ricardo Santos,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
+2026-07-28,Ricardo Santos,"Monitor LG 24""",1,1099.9,0.0,1099.9,Cancelado
+2026-07-28,Ricardo Santos,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Cancelado
+2026-07-28,Ricardo Santos,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
+2026-07-28,Ricardo Santos,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
+2026-08-25,Ricardo Santos,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-08-25,Ricardo Santos,Console PlayStation 5,1,4299.9,0.1,3869.91,Cancelado
+2026-07-04,Ricardo Santos,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-07-04,Ricardo Santos,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-07-04,Ricardo Santos,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
+2026-07-15,Ricardo Santos,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-06-28,Ricardo Santos,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
+2026-06-28,Ricardo Santos,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-06-28,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-06-28,Ricardo Santos,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
+2026-07-29,Ricardo Santos,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-07-29,Ricardo Santos,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-08-17,Ricardo Santos,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
+2026-08-14,Ricardo Santos,"Monitor LG 24""",3,1099.9,0.1,2969.73,Concluído
+2026-08-16,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-08-19,Ricardo Santos,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
+2026-08-19,Ricardo Santos,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
+2026-08-19,Ricardo Santos,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
+2026-08-18,Ricardo Santos,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-08-18,Ricardo Santos,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-08-26,Ricardo Santos,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-08-26,Ricardo Santos,Console PlayStation 5,3,4299.9,0.1,11609.73,Concluído
+2026-07-24,Ricardo Santos,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-07-12,Juliana Rocha,Caixa de Som Portátil,2,449.9,0.0,899.8,Cancelado
+2026-07-19,Juliana Rocha,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-07-19,Juliana Rocha,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
+2026-07-19,Juliana Rocha,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
+2026-06-12,Juliana Rocha,"Monitor LG 24""",3,1099.9,0.1,2969.73,Concluído
+2026-06-12,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-07-08,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-07-22,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-07-22,Juliana Rocha,Tablet Lenovo,3,1599.9,0.1,4319.73,Concluído
+2026-07-22,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-06-18,Juliana Rocha,"Monitor LG 24""",3,1099.9,0.0,3299.7,Cancelado
+2026-07-17,Juliana Rocha,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
+2026-07-17,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.05,569.81,Concluído
+2026-06-07,Juliana Rocha,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-06-15,Juliana Rocha,Console PlayStation 5,1,4299.9,0.05,4084.9,Cancelado
+2026-06-24,Juliana Rocha,Console PlayStation 5,3,4299.9,0.1,11609.73,Concluído
+2026-06-24,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-06-24,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-08-28,Juliana Rocha,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
+2026-08-28,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.05,3324.9,Concluído
+2026-08-28,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-08-28,Juliana Rocha,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-08-19,Juliana Rocha,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-08-19,Juliana Rocha,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
+2026-08-19,Juliana Rocha,Câmera GoPro,1,1899.9,0.05,1804.9,Concluído
+2026-08-13,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
+2026-08-13,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-08-13,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-13,Juliana Rocha,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-06-13,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-13,Juliana Rocha,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-06-04,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.1,2339.82,Concluído
+2026-06-04,Juliana Rocha,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-07-29,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-07-29,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.05,284.9,Concluído
+2026-07-11,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.1,539.82,Concluído
+2026-07-11,Juliana Rocha,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
+2026-07-11,Juliana Rocha,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
+2026-07-11,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-07-03,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-07-03,Juliana Rocha,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
+2026-07-03,Juliana Rocha,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
+2026-08-21,Juliana Rocha,Console PlayStation 5,1,4299.9,0.1,3869.91,Concluído
+2026-08-21,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.05,284.9,Concluído
+2026-08-21,Juliana Rocha,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-08-21,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.1,809.73,Concluído
+2026-07-24,Juliana Rocha,Câmera GoPro,2,1899.9,0.1,3419.82,Concluído
+2026-07-24,Juliana Rocha,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-07-24,Juliana Rocha,Tablet Lenovo,2,1599.9,0.1,2879.82,Concluído
+2026-06-26,Juliana Rocha,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
+2026-06-26,Juliana Rocha,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-07-04,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
+2026-08-23,Juliana Rocha,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-08-15,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.1,809.73,Concluído
+2026-08-09,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-08-09,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-08-09,Juliana Rocha,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
+2026-08-09,Juliana Rocha,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-07-26,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
+2026-08-07,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
+2026-08-07,Juliana Rocha,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-08-07,Juliana Rocha,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-08-07,Juliana Rocha,Smartphone Samsung A54,3,1299.9,0.1,3509.73,Concluído
+2026-08-27,Juliana Rocha,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-08-27,Juliana Rocha,"Smart TV 50""",3,2199.9,0.0,6599.7,Cancelado
+2026-08-27,Juliana Rocha,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
+2026-08-27,Juliana Rocha,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-07-30,Juliana Rocha,"Monitor LG 24""",1,1099.9,0.1,989.91,Concluído
+2026-07-30,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.05,1139.81,Concluído
+2026-07-30,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-08-14,Juliana Rocha,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-08-14,Juliana Rocha,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-07-28,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.1,6299.82,Concluído
+2026-07-28,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.1,1079.82,Concluído
+2026-06-06,Juliana Rocha,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-06-06,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-06-06,Juliana Rocha,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
+2026-08-22,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.05,284.9,Concluído
+2026-08-22,Juliana Rocha,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
+2026-07-21,Juliana Rocha,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
+2026-07-21,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
+2026-08-17,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.05,1139.81,Concluído
+2026-08-17,Juliana Rocha,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
+2026-07-09,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.1,6299.82,Concluído
+2026-07-09,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-07-09,Juliana Rocha,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
+2026-07-09,Juliana Rocha,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
+2026-08-25,Juliana Rocha,Câmera GoPro,3,1899.9,0.1,5129.73,Concluído
+2026-08-25,Juliana Rocha,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-08-25,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
+2026-06-25,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-06-11,Juliana Rocha,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
+2026-06-16,Juliana Rocha,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-07-14,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Cancelado
+2026-07-14,Juliana Rocha,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-06-27,Juliana Rocha,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
+2026-06-27,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-10,Juliana Rocha,Tablet Lenovo,2,1599.9,0.1,2879.82,Concluído
+2026-06-10,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.1,269.91,Concluído
+2026-08-20,Juliana Rocha,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-08-20,Juliana Rocha,"Monitor LG 24""",3,1099.9,0.05,3134.72,Concluído
+2026-08-20,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-08-04,Juliana Rocha,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-08-04,Juliana Rocha,"Monitor LG 24""",2,1099.9,0.1,1979.82,Concluído
+2026-08-04,Juliana Rocha,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-08-04,Juliana Rocha,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-08-30,Juliana Rocha,Smartphone Samsung A54,3,1299.9,0.05,3704.72,Concluído
+2026-08-30,Juliana Rocha,Caixa de Som Portátil,2,449.9,0.1,809.82,Concluído
+2026-08-30,Juliana Rocha,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-08-30,Juliana Rocha,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-06-23,Juliana Rocha,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-08-24,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.1,2339.82,Concluído
+2026-07-18,Juliana Rocha,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-07-18,Juliana Rocha,"Monitor LG 24""",3,1099.9,0.1,2969.73,Concluído
+2026-07-18,Juliana Rocha,Tablet Lenovo,1,1599.9,0.1,1439.91,Concluído
+2026-08-02,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-07-16,Juliana Rocha,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
+2026-07-16,Juliana Rocha,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-07-16,Juliana Rocha,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
+2026-07-15,Juliana Rocha,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
+2026-07-15,Juliana Rocha,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-07-15,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-07-15,Juliana Rocha,Câmera GoPro,1,1899.9,0.1,1709.91,Concluído
+2026-06-02,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-02,Juliana Rocha,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-06-02,Juliana Rocha,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-07-31,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.1,809.73,Concluído
+2026-07-31,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-07-31,Juliana Rocha,Tablet Lenovo,2,1599.9,0.1,2879.82,Concluído
+2026-08-10,Juliana Rocha,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
+2026-08-10,Juliana Rocha,Tablet Lenovo,1,1599.9,0.1,1439.91,Concluído
+2026-07-25,Juliana Rocha,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-07-25,Juliana Rocha,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-08-11,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-06-21,Juliana Rocha,Smartphone Samsung A54,1,1299.9,0.0,1299.9,Concluído
+2026-06-21,Juliana Rocha,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
+2026-08-16,Juliana Rocha,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-08-05,Juliana Rocha,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-08-05,Juliana Rocha,Smartwatch Xiaomi,2,599.9,0.05,1139.81,Concluído
+2026-08-06,Juliana Rocha,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-08-06,Juliana Rocha,Console PlayStation 5,1,4299.9,0.05,4084.9,Concluído
+2026-08-06,Juliana Rocha,Fone Bluetooth JBL,2,299.9,0.05,569.81,Concluído
+2026-08-01,Juliana Rocha,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
+2026-08-01,Juliana Rocha,Caixa de Som Portátil,2,449.9,0.05,854.81,Concluído
+2026-08-01,Juliana Rocha,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-08-01,Juliana Rocha,Smartphone Samsung A54,2,1299.9,0.05,2469.81,Concluído
+2026-07-13,Juliana Rocha,Fone Bluetooth JBL,3,299.9,0.0,899.7,Concluído
+2026-07-13,Juliana Rocha,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-07-13,Juliana Rocha,"Monitor LG 24""",1,1099.9,0.05,1044.9,Concluído
+2026-07-20,André Costa,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-07-20,André Costa,Câmera GoPro,1,1899.9,0.1,1709.91,Concluído
+2026-07-10,André Costa,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-07-10,André Costa,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-08-18,André Costa,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
+2026-08-18,André Costa,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-08-18,André Costa,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
+2026-08-18,André Costa,Tablet Lenovo,1,1599.9,0.05,1519.9,Concluído
+2026-08-06,André Costa,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-08-06,André Costa,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-08-06,André Costa,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
+2026-08-06,André Costa,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
+2026-07-07,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-07-07,André Costa,Caixa de Som Portátil,2,449.9,0.0,899.8,Cancelado
+2026-08-23,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-08-23,André Costa,"Smart TV 50""",1,2199.9,0.05,2089.91,Concluído
+2026-07-25,André Costa,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
+2026-07-25,André Costa,"Smart TV 50""",3,2199.9,0.05,6269.72,Concluído
+2026-07-25,André Costa,Câmera GoPro,1,1899.9,0.1,1709.91,Concluído
+2026-07-27,André Costa,Caixa de Som Portátil,1,449.9,0.05,427.4,Concluído
+2026-07-30,André Costa,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-07-30,André Costa,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
+2026-07-30,André Costa,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
+2026-06-24,André Costa,Smartwatch Xiaomi,3,599.9,0.1,1619.73,Concluído
+2026-08-11,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-08-11,André Costa,Tablet Lenovo,1,1599.9,0.05,1519.9,Concluído
+2026-08-11,André Costa,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
+2026-08-11,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-08-24,André Costa,Smartphone Samsung A54,1,1299.9,0.05,1234.9,Concluído
+2026-08-24,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-08-24,André Costa,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
+2026-08-24,André Costa,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-07-08,André Costa,Fone Bluetooth JBL,2,299.9,0.05,569.81,Concluído
+2026-07-08,André Costa,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
+2026-07-08,André Costa,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-06-11,André Costa,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
+2026-06-15,André Costa,"Monitor LG 24""",1,1099.9,0.0,1099.9,Concluído
+2026-06-15,André Costa,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-06-15,André Costa,Fone Bluetooth JBL,1,299.9,0.1,269.91,Concluído
+2026-06-15,André Costa,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
+2026-06-18,André Costa,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-06-18,André Costa,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
+2026-06-18,André Costa,Caixa de Som Portátil,1,449.9,0.1,404.91,Concluído
+2026-07-28,André Costa,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-07-15,André Costa,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
+2026-07-15,André Costa,"Smart TV 50""",3,2199.9,0.1,5939.73,Concluído
+2026-07-15,André Costa,Smartphone Samsung A54,3,1299.9,0.05,3704.72,Concluído
+2026-06-25,André Costa,Tablet Lenovo,1,1599.9,0.05,1519.9,Concluído
+2026-07-14,André Costa,"Monitor LG 24""",3,1099.9,0.05,3134.72,Concluído
+2026-06-23,André Costa,Caixa de Som Portátil,3,449.9,0.1,1214.73,Concluído
+2026-06-23,André Costa,Smartphone Samsung A54,3,1299.9,0.05,3704.72,Concluído
+2026-06-23,André Costa,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
+2026-06-23,André Costa,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-08-27,André Costa,Fone Bluetooth JBL,1,299.9,0.0,299.9,Concluído
+2026-08-27,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-08-27,André Costa,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-08-27,André Costa,"Monitor LG 24""",2,1099.9,0.0,2199.8,Concluído
+2026-08-26,André Costa,Caixa de Som Portátil,3,449.9,0.05,1282.21,Concluído
+2026-08-19,André Costa,Tablet Lenovo,2,1599.9,0.1,2879.82,Concluído
+2026-08-19,André Costa,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-08-03,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-08-03,André Costa,"Monitor LG 24""",1,1099.9,0.1,989.91,Concluído
+2026-08-03,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-08-03,André Costa,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-07-12,André Costa,Console PlayStation 5,1,4299.9,0.1,3869.91,Concluído
+2026-07-12,André Costa,Notebook Dell Inspiron,3,3499.9,0.0,10499.7,Concluído
+2026-07-12,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-08-04,André Costa,Caixa de Som Portátil,2,449.9,0.05,854.81,Concluído
+2026-08-04,André Costa,Smartwatch Xiaomi,3,599.9,0.0,1799.7,Concluído
+2026-08-07,André Costa,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-08-09,André Costa,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-08-09,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-08-09,André Costa,Smartphone Samsung A54,1,1299.9,0.1,1169.91,Concluído
+2026-08-09,André Costa,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-19,André Costa,Notebook Dell Inspiron,1,3499.9,0.0,3499.9,Concluído
+2026-06-07,André Costa,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-08-14,André Costa,"Monitor LG 24""",3,1099.9,0.0,3299.7,Concluído
+2026-08-14,André Costa,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-08-14,André Costa,Tablet Lenovo,2,1599.9,0.05,3039.81,Concluído
+2026-08-05,André Costa,Câmera GoPro,2,1899.9,0.05,3609.81,Concluído
+2026-08-05,André Costa,Fone Bluetooth JBL,1,299.9,0.1,269.91,Cancelado
+2026-08-05,André Costa,Câmera GoPro,1,1899.9,0.1,1709.91,Concluído
+2026-06-30,André Costa,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
+2026-07-21,André Costa,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-07-21,André Costa,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-07-21,André Costa,Tablet Lenovo,3,1599.9,0.05,4559.72,Concluído
+2026-07-06,André Costa,Smartwatch Xiaomi,1,599.9,0.0,599.9,Concluído
+2026-07-06,André Costa,Notebook Dell Inspiron,3,3499.9,0.05,9974.72,Concluído
+2026-07-06,André Costa,Smartphone Samsung A54,3,1299.9,0.05,3704.72,Concluído
+2026-07-06,André Costa,Câmera GoPro,1,1899.9,0.0,1899.9,Concluído
+2026-08-02,André Costa,Tablet Lenovo,1,1599.9,0.0,1599.9,Concluído
+2026-08-02,André Costa,Câmera GoPro,3,1899.9,0.0,5699.7,Concluído
+2026-08-02,André Costa,Câmera GoPro,1,1899.9,0.05,1804.9,Concluído
+2026-06-27,André Costa,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-06-27,André Costa,Caixa de Som Portátil,2,449.9,0.0,899.8,Concluído
+2026-07-23,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Cancelado
+2026-06-21,André Costa,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-06-21,André Costa,Smartphone Samsung A54,2,1299.9,0.0,2599.8,Concluído
+2026-06-21,André Costa,Caixa de Som Portátil,3,449.9,0.0,1349.7,Concluído
+2026-06-21,André Costa,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-07-29,André Costa,Fone Bluetooth JBL,3,299.9,0.1,809.73,Concluído
+2026-07-29,André Costa,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-07-29,André Costa,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-07-22,André Costa,Console PlayStation 5,2,4299.9,0.1,7739.82,Concluído
+2026-08-13,André Costa,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
+2026-08-13,André Costa,Tablet Lenovo,2,1599.9,0.0,3199.8,Concluído
+2026-08-13,André Costa,Smartwatch Xiaomi,2,599.9,0.0,1199.8,Concluído
+2026-08-16,André Costa,"Smart TV 50""",2,2199.9,0.0,4399.8,Concluído
+2026-08-16,André Costa,Console PlayStation 5,2,4299.9,0.0,8599.8,Concluído
+2026-08-16,André Costa,Caixa de Som Portátil,1,449.9,0.0,449.9,Concluído
+2026-06-26,André Costa,Smartwatch Xiaomi,1,599.9,0.05,569.9,Concluído
+2026-06-06,André Costa,Smartphone Samsung A54,3,1299.9,0.0,3899.7,Concluído
+2026-06-06,André Costa,Console PlayStation 5,1,4299.9,0.0,4299.9,Concluído
+2026-06-06,André Costa,Fone Bluetooth JBL,2,299.9,0.0,599.8,Concluído
+2026-08-15,André Costa,Notebook Dell Inspiron,1,3499.9,0.1,3149.91,Concluído
+2026-08-15,André Costa,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
+2026-08-15,André Costa,"Monitor LG 24""",2,1099.9,0.05,2089.81,Concluído
+2026-07-02,André Costa,Smartwatch Xiaomi,3,599.9,0.05,1709.71,Concluído
+2026-07-02,André Costa,"Smart TV 50""",3,2199.9,0.0,6599.7,Concluído
+2026-07-09,André Costa,Tablet Lenovo,3,1599.9,0.0,4799.7,Concluído
+2026-07-09,André Costa,Tablet Lenovo,1,1599.9,0.1,1439.91,Concluído
+2026-07-09,André Costa,"Smart TV 50""",1,2199.9,0.0,2199.9,Concluído
+2026-06-29,André Costa,Console PlayStation 5,3,4299.9,0.0,12899.7,Concluído
+2026-08-08,André Costa,Câmera GoPro,2,1899.9,0.0,3799.8,Concluído
+2026-08-08,André Costa,Fone Bluetooth JBL,1,299.9,0.05,284.9,Concluído
+2026-08-08,André Costa,Console PlayStation 5,2,4299.9,0.05,8169.81,Concluído
+2026-08-08,André Costa,Notebook Dell Inspiron,2,3499.9,0.0,6999.8,Concluído
