@@ -1,23 +1,41 @@
 # RADAR — Dashboard Comercial
 
-> **R**esultado, **A**nálise e **D**esempenho em **A**tendimento e **R**elacionamento
+Dashboard em Python que transforma CSVs de varejo em um painel de KPIs: vendas vs meta, conversão, ticket médio e carteira de clientes.
 
-Dashboard comercial desenvolvido em Python para visualização de indicadores de varejo em tempo real.
+![Dashboard RADAR](output/dashboard_radar.png)
 
----
+## O que faz
 
-## Indicadores exibidos
+Gera uma imagem única (`output/dashboard_radar.png`) com:
 
-| KPI | Descrição |
-|-----|-----------|
+| KPI | O que mostra |
+|-----|----------------|
 | Vendas vs Meta | Comparativo por vendedor no mês atual |
-| Evolução Mensal | Tendência de vendas nos últimos 3 meses |
-| Taxa de Conversão | % de atendimentos convertidos em venda por vendedor |
-| Ticket Médio | Valor médio por pedido por vendedor |
-| Vendas Diárias | Histórico dos últimos 30 dias com média móvel 7 dias |
-| Carteira de Clientes | Distribuição entre ativos, em risco e inativos |
+| Evolução mensal | Tendência dos últimos 3 meses |
+| Taxa de conversão | % de atendimentos que viraram venda |
+| Ticket médio | Valor médio por pedido, por vendedor |
+| Vendas diárias | Últimos 30 dias + média móvel de 7 dias |
+| Carteira | Clientes ativos, em risco e inativos |
 
----
+Os CSVs em `data/` são simulados (`gerar_dados.py`) — o fluxo é o mesmo se você trocar pelos seus arquivos.
+
+## Como rodar
+
+```bash
+pip install -r requirements.txt
+python gerar_dados.py   # opcional se os CSVs em data/ já existirem
+python dashboard.py
+```
+
+Requer Python 3.10+ (pandas, matplotlib, numpy).
+
+## Saída
+
+O script imprime o caminho do arquivo e abre a figura. O PNG fica em:
+
+```
+output/dashboard_radar.png
+```
 
 ## Stack
 
@@ -26,32 +44,14 @@ Dashboard comercial desenvolvido em Python para visualização de indicadores de
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
----
-
-## Como rodar
-
-```bash
-# 1. Instalar dependências
-pip install -r requirements.txt
-
-# 2. Gerar dados simulados
-python gerar_dados.py
-
-# 3. Gerar dashboard
-python dashboard.py
-```
-
-O dashboard será salvo em `output/dashboard_radar.png` e exibido na tela.
-
----
-
-## Estrutura
-
 ```
 radar/
-├── gerar_dados.py     # Gerador de dados simulados
-├── dashboard.py       # Dashboard principal
-├── requirements.txt
-├── data/              # CSVs gerados
-└── output/            # Dashboard exportado
+├── gerar_dados.py     # dados simulados → data/*.csv
+├── dashboard.py       # KPIs + gráficos → output/dashboard_radar.png
+├── data/              # vendas, atendimentos, clientes, metas
+└── output/            # dashboard exportado
 ```
+
+## Licença
+
+MIT — © Milton Souza Macedo Junior. Veja [LICENSE](LICENSE).
